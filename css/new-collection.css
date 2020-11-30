@@ -1,0 +1,30 @@
+.new-collection {
+  background-color: black;
+}
+
+.container-new-col {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 125px;
+  padding-bottom: 173px;
+}
+
+.new-collection-group {
+  display: flex;
+  margin-top: 53px;
+}
+
+.img-wrapper {
+  position: relative;
+  display: flex;
+  background-color: #191b1c;
+  margin: 40px 11px;
+  padding: 32px 8px;
+}
+
+.new-col-desc {
+  position: absolute;
+  bottom: -105px;
+  text-align: start;
+}
